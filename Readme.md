@@ -1,7 +1,7 @@
 ### Hi there, I'm [Mokshit!](https://mokshitjain.com) 👋
 
 <a href="https://twitter.com/mokshit06">
-  <img align="left" alt="Mokshit Jain | Twitter" width="21px" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/twitter.svg" />
+  <img align="left" alt="Mokshit Jain | Twitter" width="21px" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/assets/twitter.svg" />
 </a>
 
 <a href="mailto:mokshitjain2006@gmail.com">
