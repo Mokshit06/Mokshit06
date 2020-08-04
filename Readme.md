@@ -24,6 +24,6 @@ Hi, I'm Mokshit, a 14 year old tech enthusiast, designer and developer. I am pro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/assets/mongodb.svg"></code>
 
-![Mokshit's github stats](https://github-readme-stats.vercel.app/api?username=mokshit06&show_icons=true&hide=["issues"]&count_private=true&include_all_commits=true&theme=dark)
+![Mokshit's github stats](https://github-readme-stats.vercel.app/api?username=mokshit06&show_icons=true&hide=["issues"]&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokshit06&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokshit06&layout=compact)
