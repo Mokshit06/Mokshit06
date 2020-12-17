@@ -1,15 +1,12 @@
-### Hi there, I'm [Mokshit!](https://mokshitjain.co) 👋
+## Hi there, I'm [Mokshit!](https://mokshitjain.co) 👋
 
-<br />
-<br />
-
-Hi, I'm Mokshit, a 14 year old tech enthusiast and developer. I am proficient in Javascript, React and Node.js.
+#### Hi, I'm Mokshit, a 14 year old tech enthusiast and developer. I am proficient in Javascript, React and Node.js.
 
 - 🏆 Google Code-in '19 Finalist.
 - 👨🏽‍💻 I’m currently interested in Typescript, React, and Node.
 - 💬 Reach out to me [here](mailto:mokshitjain2006@gmail.com).
 
-**Languages and Tools:**
+## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
 <code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"/></code>
@@ -20,3 +17,7 @@ Hi, I'm Mokshit, a 14 year old tech enthusiast and developer. I am proficient in
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/assets/mongodb.svg"></code>
+
+## My Github Stats
+
+![Mokshit's github stats](https://github-readme-stats.vercel.app/api?username=mokshit06&count_private=true&hide=prs&include_all_commits=true)
