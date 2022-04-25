@@ -22,5 +22,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/assets/mongodb.svg"></code>
 
 
-![Mokshit's github stats](https://github-readme-stats.vercel.app/api?username=mokshit06&count_private=true&include_all_commits=true#gh-light-mode-only)
+<!-- ![Mokshit's github stats](https://github-readme-stats.vercel.app/api?username=mokshit06&count_private=true&include_all_commits=true#gh-light-mode-only) -->
 ![Mokshit's github stats](https://github-readme-stats.vercel.app/api?username=mokshit06&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22#gh-dark-mode-only)
