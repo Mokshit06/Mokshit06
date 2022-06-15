@@ -1,9 +1,9 @@
 ## Hi there, I'm [Mokshit!](https://mokshitjain.co) 👋
 
-#### Hi, I'm Mokshit, a 15 year old fullstack developer based in India. I love writing typescript, react and rust.
+#### Hi, I'm Mokshit, a 15 year old developer based in India
 
 - 🏆 Google Code-in '19 Finalist.
-- 👨🏽‍💻 I’m currently interested in compilers, rust, and solid.js.
+- 👨🏽‍💻 I’m currently interested in compilers, rust, and solid.js and web performance.
 - 💬 Reach out to me [here](mailto:mokshitjain2006@gmail.com).
 
 ## Languages and Tools:
@@ -21,6 +21,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/assets/mongodb.svg"></code>
 
-
 <!-- ![Mokshit's github stats](https://github-readme-stats.vercel.app/api?username=mokshit06&count_private=true&include_all_commits=true#gh-light-mode-only) -->
+
 ![Mokshit's github stats](https://github-readme-stats.vercel.app/api?username=mokshit06&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22)
