@@ -1,6 +1,6 @@
 ## Hi there, I'm [Mokshit!](https://mokshitjain.co) 👋
 
-#### Hi, I'm Mokshit, a 15 year old developer based in India
+#### Hi, I'm Mokshit, a 16 year old developer based in India
 
 - 🏆 Google Code-in '19 Finalist.
 - 👨🏽‍💻 I’m currently interested in compilers, rust, and solid.js and web performance.
