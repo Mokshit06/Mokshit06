@@ -2,7 +2,7 @@
 
 #### Hi, I'm Mokshit, a 16 year old developer based in India
 
-- 🏆 Google Code-in '19 Finalist.
+- 🏆 Google Code-in '19 Finalist &middot; SolidHack Winner
 - 👨🏽‍💻 I’m currently interested in compilers, rust, and solid.js and web performance.
 - 💬 Reach out to me [here](mailto:mokshitjain2006@gmail.com).
 
